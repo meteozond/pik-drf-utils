@@ -1,0 +1,8 @@
+django
+django_rest_framework
+django-restql
+djangorestframework-camel-case
+pik-openapi
+django-filter
+djangorestframework-filters==1.0.0.dev0
+django-model-utils
